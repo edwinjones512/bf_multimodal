@@ -1,0 +1,258 @@
+{"step": 1, "val_loss": 330.2333557128906, "val_token_acc": 0.0, "qa_count": 2, "qa_f1": 0.09090909090909091, "qa_contains_acc": 0.0}
+{"step": 2, "val_loss": 330.17848307291666, "val_token_acc": 0.0, "qa_count": 2, "qa_f1": 0.09090909090909091, "qa_contains_acc": 0.0}
+{"step": 100, "val_loss": 70.72517521477444, "val_token_acc": 0.0017256399714797518, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.0, "audio_caption_f1": 0.0063274853801169595, "audio_caption_n": 50.0}
+{"step": 500, "val_loss": 33.35510005182399, "val_token_acc": 0.01593659119003182, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 1000, "val_loss": 32.7682187915285, "val_token_acc": 0.016149571808785654, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 1500, "val_loss": 32.01857739752466, "val_token_acc": 0.016706047457150867, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 2000, "val_loss": 14.879839139106947, "val_token_acc": 0.06565528887740447, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 2500, "val_loss": 14.744338405874622, "val_token_acc": 0.06550412015454601, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 3000, "val_loss": 7.835437135382013, "val_token_acc": 0.17027774756825345, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 3500, "val_loss": 6.977655888477088, "val_token_acc": 0.1919098831169046, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 4000, "val_loss": 6.553589084646204, "val_token_acc": 0.21366421861836862, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 4500, "val_loss": 6.388323867714012, "val_token_acc": 0.22108211686581425, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 5000, "val_loss": 6.304444753206694, "val_token_acc": 0.2263095092083318, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 5500, "val_loss": 6.273416809983306, "val_token_acc": 0.22794481713922932, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 6000, "val_loss": 6.268067993087209, "val_token_acc": 0.22834458366884497, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 6500, "val_loss": 6.154542490676209, "val_token_acc": 0.23112173452805898, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 7000, "val_loss": 6.0486447898459526, "val_token_acc": 0.23846893946845013, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 7500, "val_loss": 5.948147250619127, "val_token_acc": 0.24503229045452735, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 8000, "val_loss": 5.867540822360978, "val_token_acc": 0.25024138115127337, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 8500, "val_loss": 5.802834737868536, "val_token_acc": 0.2547199531728544, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 9000, "val_loss": 5.7687882503747065, "val_token_acc": 0.2565265588605157, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 9500, "val_loss": 5.730018366824139, "val_token_acc": 0.2594342903821736, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 10000, "val_loss": 5.701766052525559, "val_token_acc": 0.2617945670205372, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 10500, "val_loss": 5.683891047488202, "val_token_acc": 0.26320079101958443, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 11000, "val_loss": 5.676507706170554, "val_token_acc": 0.2635803563345318, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 11500, "val_loss": 5.673717846363892, "val_token_acc": 0.2638751999418382, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 12000, "val_loss": 5.67317870423034, "val_token_acc": 0.2639490528447088, "qa_count": 25, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 14000, "val_loss": 5.34857222452885, "val_token_acc": 0.29086104396349866}
+{"step": 16000, "val_loss": 5.1042850838989775, "val_token_acc": 0.3091778667497635}
+{"step": 18000, "val_loss": 4.891386165939459, "val_token_acc": 0.3248887012898321}
+{"step": 20000, "val_loss": 4.706497918858248, "val_token_acc": 0.34031000733104555}
+{"step": 22000, "val_loss": 4.541258128751226, "val_token_acc": 0.3571818122242999}
+{"step": 24000, "val_loss": 4.427275491361859, "val_token_acc": 0.3710033124569343}
+{"step": 26000, "val_loss": 4.355606843643829, "val_token_acc": 0.3796413509743123}
+{"step": 28000, "val_loss": 4.313223456935722, "val_token_acc": 0.3842518671634587}
+{"step": 30000, "val_loss": 4.288572079794747, "val_token_acc": 0.3868391329641338}
+{"step": 32000, "val_loss": 4.2772972483594875, "val_token_acc": 0.3881220892713061}
+{"step": 34000, "val_loss": 4.274280387814305, "val_token_acc": 0.38846102721345904}
+{"step": 36000, "val_loss": 4.222929812679771, "val_token_acc": 0.3938572232773343}
+{"step": 38000, "val_loss": 4.158809396599521, "val_token_acc": 0.39950999369588536}
+{"step": 40000, "val_loss": 4.112259964983003, "val_token_acc": 0.4038353952197326}
+{"step": 42000, "val_loss": 4.068403772546463, "val_token_acc": 0.4078081583912921}
+{"step": 44000, "val_loss": 4.039617738403192, "val_token_acc": 0.4108010883860702}
+{"step": 46000, "val_loss": 4.013323552267892, "val_token_acc": 0.41269154550219944}
+{"step": 48000, "val_loss": 3.997213965103406, "val_token_acc": 0.41416714477502126}
+{"step": 50000, "val_loss": 3.9827359199523924, "val_token_acc": 0.41550822919989777}
+{"step": 52000, "val_loss": 3.972985958852688, "val_token_acc": 0.416399392163761}
+{"step": 54000, "val_loss": 3.967062644397511, "val_token_acc": 0.4169468212608438}
+{"step": 56000, "val_loss": 3.9632517470031225, "val_token_acc": 0.4173220545484101}
+{"step": 58000, "val_loss": 3.962071867950824, "val_token_acc": 0.417445310044745}
+{"step": 60000, "val_loss": 3.9617966643902434, "val_token_acc": 0.4174684194315379}
+{"step": 62000, "val_loss": 3.9544516803837624, "val_token_acc": 0.4158720134608024}
+{"step": 64000, "val_loss": 3.8798319832617496, "val_token_acc": 0.42252759853370303}
+{"step": 66000, "val_loss": 3.8213880438764556, "val_token_acc": 0.4271370034759498}
+{"step": 68000, "val_loss": 3.7630811194411846, "val_token_acc": 0.431715641099591}
+{"step": 70000, "val_loss": 3.7175510101959484, "val_token_acc": 0.43542864101995304}
+{"step": 72000, "val_loss": 3.6734350893677785, "val_token_acc": 0.4390248020162144}
+{"step": 74000, "val_loss": 3.6347847481735616, "val_token_acc": 0.44218916185074536}
+{"step": 76000, "val_loss": 3.5970444979787874, "val_token_acc": 0.44510417413831666}
+{"step": 78000, "val_loss": 3.5643286809199997, "val_token_acc": 0.44734175850572105}
+{"step": 80000, "val_loss": 3.5390121936798096, "val_token_acc": 0.449856898321686}
+{"step": 82000, "val_loss": 3.510599185639069, "val_token_acc": 0.45177473547965036}
+{"step": 84000, "val_loss": 3.486632071823633, "val_token_acc": 0.45392459903601506}
+{"step": 86000, "val_loss": 3.4596337378525934, "val_token_acc": 0.45555687363887876}
+{"step": 88000, "val_loss": 3.441868102450331, "val_token_acc": 0.4573606456849145}
+{"step": 90000, "val_loss": 3.4184474648547774, "val_token_acc": 0.4592917809662524}
+{"step": 92000, "val_loss": 3.40121118401279, "val_token_acc": 0.45987511988997937}
+{"step": 94000, "val_loss": 3.315197290485309, "val_token_acc": 0.46990874448551345}
+{"step": 96000, "val_loss": 3.2954084669313586, "val_token_acc": 0.4710114397909419}
+{"step": 98000, "val_loss": 3.270354982918089, "val_token_acc": 0.47322763501563386}
+{"step": 100000, "val_loss": 3.251175202110331, "val_token_acc": 0.4747722287850676}
+{"step": 102000, "val_loss": 3.2260144214167683, "val_token_acc": 0.476475294339554}
+{"step": 104000, "val_loss": 3.2069278011891797, "val_token_acc": 0.4777290053179776}
+{"step": 106000, "val_loss": 3.2753748869695585, "val_token_acc": 0.46870015838047885}
+{"step": 108000, "val_loss": 3.25454340542064, "val_token_acc": 0.46976881026088296}
+{"step": 110000, "val_loss": 3.235971155887892, "val_token_acc": 0.47149407424913786}
+{"step": 112000, "val_loss": 3.2173868027053962, "val_token_acc": 0.47271547182559037}
+{"step": 114000, "val_loss": 3.200969038490488, "val_token_acc": 0.47400247155922465}
+{"step": 116000, "val_loss": 3.1803574934727004, "val_token_acc": 0.47551736326196814}
+{"step": 118000, "val_loss": 3.1662038073820225, "val_token_acc": 0.4766494221103412}
+{"step": 120000, "val_loss": 3.152699526217805, "val_token_acc": 0.47740559267346433}
+{"step": 122000, "val_loss": 3.139315435665996, "val_token_acc": 0.4787524458023333}
+{"step": 124000, "val_loss": 3.1246259324690877, "val_token_acc": 0.4795852192734015}
+{"step": 94000, "val_loss": 3.3998790480509524, "val_token_acc": 0.45993156203796987}
+{"step": 96000, "val_loss": 3.389944754127695, "val_token_acc": 0.4604724318193742}
+{"step": 98000, "val_loss": 3.3595507597722927, "val_token_acc": 0.46244694270168796}
+{"step": 100000, "val_loss": 3.3365689457965497, "val_token_acc": 0.46366007555333494}
+{"step": 102000, "val_loss": 3.3183957721004966, "val_token_acc": 0.46518556428618113}
+{"step": 104000, "val_loss": 3.2956262668641676, "val_token_acc": 0.4671344198163386}
+{"step": 106000, "val_loss": 3.2790866599363437, "val_token_acc": 0.4681896735714456}
+{"step": 108000, "val_loss": 3.2577715697408722, "val_token_acc": 0.4701512127508869}
+{"step": 110000, "val_loss": 3.234685460659636, "val_token_acc": 0.4715910374681566}
+{"step": 112000, "val_loss": 3.218682928646312, "val_token_acc": 0.47280038461702106}
+{"step": 114000, "val_loss": 3.198402442050581, "val_token_acc": 0.474067785422956}
+{"step": 116000, "val_loss": 3.1852067486578677, "val_token_acc": 0.47540751196705666}
+{"step": 118000, "val_loss": 3.168004738783636, "val_token_acc": 0.47641059552173265}
+{"step": 120000, "val_loss": 3.1508823082226667, "val_token_acc": 0.4775233701640523}
+{"step": 122000, "val_loss": 3.1346702559655455, "val_token_acc": 0.4787210777042049}
+{"step": 124000, "val_loss": 3.119055659029664, "val_token_acc": 0.4797278526838667}
+{"step": 126000, "val_loss": 3.1072553690742044, "val_token_acc": 0.4808986119524454}
+{"step": 128000, "val_loss": 3.0943708183384744, "val_token_acc": 0.48184909996743264}
+{"step": 130000, "val_loss": 3.083833344243154, "val_token_acc": 0.4822077553705211}
+{"step": 132000, "val_loss": 3.0739282579982983, "val_token_acc": 0.48264177327191016}
+{"step": 134000, "val_loss": 3.054369085376002, "val_token_acc": 0.4845582391157815}
+{"step": 136000, "val_loss": 3.043164068109849, "val_token_acc": 0.4855947721150839}
+{"step": 138000, "val_loss": 3.0340144522049846, "val_token_acc": 0.48579927745225066}
+{"step": 140000, "val_loss": 3.0205246268200274, "val_token_acc": 0.48711282936635836}
+{"step": 142000, "val_loss": 3.009493714821439, "val_token_acc": 0.4880656147887969}
+{"step": 144000, "val_loss": 3.000281321100828, "val_token_acc": 0.48864599946266357}
+{"step": 146000, "val_loss": 2.988091534125705, "val_token_acc": 0.4895297033619812}
+{"step": 148000, "val_loss": 2.9784716513978333, "val_token_acc": 0.49024436990041276}
+{"step": 150000, "val_loss": 2.966481661596218, "val_token_acc": 0.4908403229942101}
+{"step": 152000, "val_loss": 2.9596718960449477, "val_token_acc": 0.49154474743887033}
+{"step": 154000, "val_loss": 2.9471086954870143, "val_token_acc": 0.49251670444268253}
+{"step": 156000, "val_loss": 2.9401877872082367, "val_token_acc": 0.49341615530375965}
+{"step": 158000, "val_loss": 2.9309622247679896, "val_token_acc": 0.494008034331282}
+{"step": 160000, "val_loss": 2.9196932896846484, "val_token_acc": 0.49465068425244507}
+{"step": 162000, "val_loss": 2.911488408801936, "val_token_acc": 0.4952792137856342}
+{"step": 164000, "val_loss": 2.905455176169131, "val_token_acc": 0.49574714699976113}
+{"step": 166000, "val_loss": 2.8996623728455617, "val_token_acc": 0.49614389100100786}
+{"step": 168000, "val_loss": 2.891237146313451, "val_token_acc": 0.4966279001272965}
+{"step": 170000, "val_loss": 2.8838027284926726, "val_token_acc": 0.49747385167317565}
+{"step": 172000, "val_loss": 2.876833106690094, "val_token_acc": 0.49768003095305174}
+{"step": 174000, "val_loss": 2.8673561725295893, "val_token_acc": 0.49856896232748965}
+{"step": 176000, "val_loss": 2.86116837172949, "val_token_acc": 0.49927105090224283}
+{"step": 178000, "val_loss": 2.8546307447577726, "val_token_acc": 0.4996379236052611}
+{"step": 180000, "val_loss": 2.8446801165572735, "val_token_acc": 0.5003841521930571}
+{"step": 182000, "val_loss": 2.8412920851667387, "val_token_acc": 0.5009246412173021}
+{"step": 184000, "val_loss": 2.8334896147752007, "val_token_acc": 0.5016134319811938}
+{"step": 186000, "val_loss": 2.8278572563363724, "val_token_acc": 0.5018389881924346}
+{"step": 188000, "val_loss": 2.8199198033629345, "val_token_acc": 0.502585063275157}
+{"step": 190000, "val_loss": 2.816056344088386, "val_token_acc": 0.5025285322771663}
+{"step": 192000, "val_loss": 2.8086485758549027, "val_token_acc": 0.5031896463443797}
+{"step": 194000, "val_loss": 2.80428098350012, "val_token_acc": 0.5037646617376373}
+{"step": 196000, "val_loss": 2.797506068734562, "val_token_acc": 0.5042112672997898}
+{"step": 198000, "val_loss": 2.7922452361643817, "val_token_acc": 0.5049707645154076}
+{"step": 200000, "val_loss": 2.790336677407016, "val_token_acc": 0.5046863755758092}
+{"step": 202000, "val_loss": 2.781319946801963, "val_token_acc": 0.5056762616010416, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 204000, "val_loss": 2.782036108129165, "val_token_acc": 0.5053485780149563, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 206000, "val_loss": 2.7701295303697346, "val_token_acc": 0.5063199401918658, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 208000, "val_loss": 2.7680811268942698, "val_token_acc": 0.5066869464064021, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 210000, "val_loss": 2.76117507670106, "val_token_acc": 0.5075583099635512, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 212000, "val_loss": 2.7565571336185233, "val_token_acc": 0.5079981129404993, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 214000, "val_loss": 2.7544735079052067, "val_token_acc": 0.5078831912440148, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 216000, "val_loss": 2.7493524230828807, "val_token_acc": 0.5086018934254861, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 218000, "val_loss": 2.743428955558969, "val_token_acc": 0.5090415411370549, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 220000, "val_loss": 2.737604093551636, "val_token_acc": 0.5095398112233024, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 222000, "val_loss": 2.735865156991141, "val_token_acc": 0.5097441330563119, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 224000, "val_loss": 2.73177261232328, "val_token_acc": 0.5101050942604554, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 226000, "val_loss": 2.7303528120537766, "val_token_acc": 0.5103279294962577, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 228000, "val_loss": 2.720040527912749, "val_token_acc": 0.5109979038681997, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 230000, "val_loss": 2.7195965730843423, "val_token_acc": 0.5112822162925235, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 232000, "val_loss": 2.7155193547240826, "val_token_acc": 0.5114854112248335, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 234000, "val_loss": 2.712445511938143, "val_token_acc": 0.5120049182656808, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 236000, "val_loss": 2.7077945514887323, "val_token_acc": 0.512231228175911, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 238000, "val_loss": 2.7057496760071826, "val_token_acc": 0.5124366524594947, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 240000, "val_loss": 2.702876411766565, "val_token_acc": 0.5125201208002742, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 242000, "val_loss": 2.6988703208811144, "val_token_acc": 0.5129145287393079, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 244000, "val_loss": 2.690888417067648, "val_token_acc": 0.5134382914031034, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 246000, "val_loss": 2.6870053185134375, "val_token_acc": 0.5140132149652467, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 248000, "val_loss": 2.6875275221191535, "val_token_acc": 0.513920858574538, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 250000, "val_loss": 2.6819896072900598, "val_token_acc": 0.5145321867202819, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 252000, "val_loss": 2.678837643150522, "val_token_acc": 0.5148575902594797, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 254000, "val_loss": 2.675993800163269, "val_token_acc": 0.5152288109794035, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 256000, "val_loss": 2.6737849435886414, "val_token_acc": 0.515230247676107, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 258000, "val_loss": 2.6709771022075364, "val_token_acc": 0.5153916470826251, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 260000, "val_loss": 2.6641272875441224, "val_token_acc": 0.515887434744048, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 262000, "val_loss": 2.6614952960935963, "val_token_acc": 0.5165976052514977, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 264000, "val_loss": 2.6626958983285087, "val_token_acc": 0.5166411374819669, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 264000, "val_loss": 2.6635076811333662, "val_token_acc": 0.5162334279281527, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 266000, "val_loss": 2.6575693170563515, "val_token_acc": 0.5170170182620111, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 268000, "val_loss": 2.657750446656171, "val_token_acc": 0.5170304938412444, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 270000, "val_loss": 2.652349185743252, "val_token_acc": 0.5172230130111186, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 272000, "val_loss": 2.6500236314885757, "val_token_acc": 0.5176027238700516, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.0}
+{"step": 274000, "val_loss": 2.645644804409572, "val_token_acc": 0.5181930788231781, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 276000, "val_loss": 2.643331758915877, "val_token_acc": 0.5183240624315929, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 278000, "val_loss": 2.642096639080208, "val_token_acc": 0.5184397583921462, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 280000, "val_loss": 2.6377853427614486, "val_token_acc": 0.5187947121735162, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 282000, "val_loss": 2.6385243415832518, "val_token_acc": 0.5190661841051633, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 284000, "val_loss": 2.635839062378186, "val_token_acc": 0.5191397832757346, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 286000, "val_loss": 2.631752146793013, "val_token_acc": 0.5194783195551186, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 288000, "val_loss": 2.6283305059961912, "val_token_acc": 0.5196947212567975, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 290000, "val_loss": 2.6230877024786814, "val_token_acc": 0.520256793549074, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 292000, "val_loss": 2.622519672417841, "val_token_acc": 0.5201808185213153, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 294000, "val_loss": 2.61999263222478, "val_token_acc": 0.5204854437263488, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 296000, "val_loss": 2.620477890968323, "val_token_acc": 0.5207018013996283, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 298000, "val_loss": 2.615531787151048, "val_token_acc": 0.5209897277357052, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 300000, "val_loss": 2.6122469258909464, "val_token_acc": 0.5212656927192192, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 302000, "val_loss": 2.6099330894085537, "val_token_acc": 0.5216782925714278, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 304000, "val_loss": 2.610358303334533, "val_token_acc": 0.5218235777025207, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 306000, "val_loss": 2.6104029437073137, "val_token_acc": 0.5215936249122831, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 308000, "val_loss": 2.6037826640265327, "val_token_acc": 0.5221964928906406, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 310000, "val_loss": 2.605375548571098, "val_token_acc": 0.5225016855213614, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 312000, "val_loss": 2.598259607283007, "val_token_acc": 0.522739938877614, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 314000, "val_loss": 2.5975259586542596, "val_token_acc": 0.5228927779223751, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 316000, "val_loss": 2.5985196261846717, "val_token_acc": 0.5230388755103113, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 318000, "val_loss": 2.593365780445708, "val_token_acc": 0.5235327022593302, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 320000, "val_loss": 2.5933332465275996, "val_token_acc": 0.5234631876670682, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 322000, "val_loss": 2.5908528390050938, "val_token_acc": 0.5236615750413844, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 324000, "val_loss": 2.5886453951106354, "val_token_acc": 0.523918341717867, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 326000, "val_loss": 2.5868357748544515, "val_token_acc": 0.5240546717040439, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 328000, "val_loss": 2.58630220409201, "val_token_acc": 0.5243547691587218, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 330000, "val_loss": 2.584960024497088, "val_token_acc": 0.5242478529241718, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 332000, "val_loss": 2.5848921675642, "val_token_acc": 0.5243574928643066, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 334000, "val_loss": 2.5790519007113804, "val_token_acc": 0.5248714274568862, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 336000, "val_loss": 2.577215940611703, "val_token_acc": 0.5251934441827352, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 338000, "val_loss": 2.5782778814059344, "val_token_acc": 0.5251825659977285, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 340000, "val_loss": 2.5787284642708403, "val_token_acc": 0.5252275016287251, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 342000, "val_loss": 2.5730535929944334, "val_token_acc": 0.5256246099739866, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 344000, "val_loss": 2.5699631248201644, "val_token_acc": 0.5261965976287083, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 346000, "val_loss": 2.5692133739214986, "val_token_acc": 0.5259626268411614, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 348000, "val_loss": 2.565913609897389, "val_token_acc": 0.5264221149243073, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 350000, "val_loss": 2.564768746520291, "val_token_acc": 0.5263960178161283, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 352000, "val_loss": 2.5648719921833325, "val_token_acc": 0.5265500929175141, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 354000, "val_loss": 2.563363310469299, "val_token_acc": 0.5269127519198171, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 356000, "val_loss": 2.5599867814729196, "val_token_acc": 0.5271595653082066, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 358000, "val_loss": 2.559688816952104, "val_token_acc": 0.527141696070748, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 360000, "val_loss": 2.560669184532486, "val_token_acc": 0.5270989829028365, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 362000, "val_loss": 2.559434161867414, "val_token_acc": 0.5272296417725584, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 364000, "val_loss": 2.5561751269492783, "val_token_acc": 0.5275548889731315, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 366000, "val_loss": 2.5536131089474976, "val_token_acc": 0.5279116597009886, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 368000, "val_loss": 2.549437232578502, "val_token_acc": 0.5282826581454578, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 370000, "val_loss": 2.550860795253465, "val_token_acc": 0.5283021202828662, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 372000, "val_loss": 2.5508504530962774, "val_token_acc": 0.5279934285732643, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 374000, "val_loss": 2.5491929074295427, "val_token_acc": 0.5284186534537796, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 376000, "val_loss": 2.546260503560555, "val_token_acc": 0.5289018301310349, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 378000, "val_loss": 2.547434945266788, "val_token_acc": 0.528732130176407, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 380000, "val_loss": 2.5431608025767223, "val_token_acc": 0.5290860873895421, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 382000, "val_loss": 2.54109798719903, "val_token_acc": 0.5293364602005957, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 384000, "val_loss": 2.5437779913429455, "val_token_acc": 0.5292367110824867, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 386000, "val_loss": 2.5398623849163537, "val_token_acc": 0.529763029517486, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 388000, "val_loss": 2.54070337039082, "val_token_acc": 0.5294197960869749, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 390000, "val_loss": 2.539111807566731, "val_token_acc": 0.5298317423641866, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 392000, "val_loss": 2.5353566790829185, "val_token_acc": 0.5301849824394794, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 394000, "val_loss": 2.5345166973707056, "val_token_acc": 0.5302358687580522, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 396000, "val_loss": 2.53260734962816, "val_token_acc": 0.5305527863698836, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 398000, "val_loss": 2.5347143467734843, "val_token_acc": 0.5299691902996708, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 400000, "val_loss": 2.5306087185354795, "val_token_acc": 0.5307667416219136, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 402000, "val_loss": 2.436815017090612, "val_token_acc": 0.5421071328634338, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 404000, "val_loss": 2.4388461396807717, "val_token_acc": 0.5415015899427021, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 406000, "val_loss": 2.4410179067444013, "val_token_acc": 0.5415259049175238, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 408000, "val_loss": 2.4372575898746867, "val_token_acc": 0.5418584099806004, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 410000, "val_loss": 2.43689434999948, "val_token_acc": 0.5419272882809347, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 412000, "val_loss": 2.4403593909172785, "val_token_acc": 0.5415778297361815, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 412000, "val_loss": 2.4407761625317863, "val_token_acc": 0.54155696195882, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 414000, "val_loss": 2.436658554898077, "val_token_acc": 0.5418907935440962, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 416000, "val_loss": 2.4366962959914855, "val_token_acc": 0.5419252072743311, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 418000, "val_loss": 2.439265306834336, "val_token_acc": 0.5416724566750962, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 420000, "val_loss": 2.439384321808378, "val_token_acc": 0.5415629573141568, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 422000, "val_loss": 2.4393033802290978, "val_token_acc": 0.5417116964388233, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 424000, "val_loss": 2.4388104332235705, "val_token_acc": 0.5418155909119361, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 424000, "val_loss": 2.4400236711397274, "val_token_acc": 0.5416366456085377, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 426000, "val_loss": 2.435584682684678, "val_token_acc": 0.5421283189448174, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 428000, "val_loss": 2.4362822068043246, "val_token_acc": 0.5420608128146484, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 430000, "val_loss": 2.4387170537050826, "val_token_acc": 0.541851404110526, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 432000, "val_loss": 2.437766886019445, "val_token_acc": 0.5418867309538282, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 434000, "val_loss": 2.436432644561097, "val_token_acc": 0.5421878882121844, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
+{"step": 436000, "val_loss": 2.4371269061451866, "val_token_acc": 0.5420288338122247, "qa_count": 50, "qa_f1": 0.0, "qa_contains_acc": 0.02}
